@@ -1,17 +1,17 @@
 
 import './App.scss';
 import { Route, Routes } from 'react-router-dom'
-import Header from './components/header/header';
-import Home from './pages/home/home';
-import Theatre from './pages/theatre/theatre';
+import Header from './components/Header/Header';
+import Home from './pages/Home/Home';
+import Theatre from './pages/Theatre/Theatre';
 
 function App() {
   return (
     <div className="App">
       <Header />
       <Routes>
-        <Route path="/vicenteapi" element={<Home />} />
-        <Route path="/vicenteapi/Teatro" element={<Theatre />} />
+        <Route path="" element={<Home />} />
+        <Route path="teatro" element={<Theatre />} />
       </Routes>
     </div>
   );
