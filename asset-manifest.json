@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vicenteapi/static/css/main.91ba14d3.css",
-    "main.js": "/vicenteapi/static/js/main.aa354c73.js",
+    "main.css": "/vicenteapi/static/css/main.086234f5.css",
+    "main.js": "/vicenteapi/static/js/main.b0df9a20.js",
     "static/js/453.ac27253e.chunk.js": "/vicenteapi/static/js/453.ac27253e.chunk.js",
     "index.html": "/vicenteapi/index.html",
-    "main.91ba14d3.css.map": "/vicenteapi/static/css/main.91ba14d3.css.map",
-    "main.aa354c73.js.map": "/vicenteapi/static/js/main.aa354c73.js.map",
+    "main.086234f5.css.map": "/vicenteapi/static/css/main.086234f5.css.map",
+    "main.b0df9a20.js.map": "/vicenteapi/static/js/main.b0df9a20.js.map",
     "453.ac27253e.chunk.js.map": "/vicenteapi/static/js/453.ac27253e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91ba14d3.css",
-    "static/js/main.aa354c73.js"
+    "static/css/main.086234f5.css",
+    "static/js/main.b0df9a20.js"
   ]
 }
