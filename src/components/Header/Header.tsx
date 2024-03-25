@@ -1,6 +1,6 @@
 const Header = () => {
     return <header className="App-header">
-        <p >Work in progress</p>
+        <p>HEADER</p>
     </header>
 }
 
